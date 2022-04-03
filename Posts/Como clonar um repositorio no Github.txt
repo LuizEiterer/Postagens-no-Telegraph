@@ -16,7 +16,8 @@ $ cd Posts
 
 Luiz Henrique@DESKTOP-LUIZ MINGW64 ~/github/Postagens-no-Telegraph/Posts (main)
 $
-Transformar essa minha pasta em um repositório Git.
+
+***Transformar essa minha pasta em um repositório Git.
 Pra isso, basta digitar git init e dar enter.
 $ git init
 Initialized empty Git repository in C:/Users/Luiz Henrique/Github/Postagens-no-Telegraph/Posts/.git/
@@ -25,7 +26,8 @@ $ git remote add origin git@github.com:LuizEiterer/Postagens-no-Telegraph.git
 
 verificar se o controle remoto atual associado à palavra-chave "origem" tem a URL correta. Você pode fazer isso usando o comando git remoto -v:
 git remote -v
-Para remover o controle remoto existente e adicionar um novo, podemos definir uma nova URL para o nosso controle remoto:
+
+****Para remover o controle remoto existente e adicionar um novo, podemos definir uma nova URL para o nosso controle remoto:
 git remote set-url origin git@github.com:LuizEiterer/Postagens-no-Telegraph/Posts.git
 
 Verificar novamente git remote -v
