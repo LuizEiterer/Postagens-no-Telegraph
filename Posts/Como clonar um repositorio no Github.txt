@@ -26,3 +26,5 @@ verificar se o controle remoto atual associado à palavra-chave "origem" tem a U
 git remote -v
 Para remover o controle remoto existente e adicionar um novo, podemos definir uma nova URL para o nosso controle remoto:
 git remote set-url origin git@github.com:LuizEiterer/Postagens-no-Telegraph/Posts.git
+
+Verificar novamente git remote -v
