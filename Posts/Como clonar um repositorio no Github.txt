@@ -1,0 +1,22 @@
+# Clonar repositório
+Abrir Git Bash.</br>
+Criar a pasta: mkdir nome da pasta
+Ir até uma pasta. Siga o caminho existente. ver exemplo abaixo:
+
+Luiz Henrique@DESKTOP-LUIZ MINGW64 ~
+$ cd github
+
+Luiz Henrique@DESKTOP-LUIZ MINGW64 ~/github
+$ cd Postagens-no-Telegraph
+
+Luiz Henrique@DESKTOP-LUIZ MINGW64 ~/github/Postagens-no-Telegraph (main)
+$ cd Posts
+
+Luiz Henrique@DESKTOP-LUIZ MINGW64 ~/github/Postagens-no-Telegraph/Posts (main)
+$
+Transformar essa minha pasta em um repositório Git.
+Pra isso, basta digitar git init e dar enter.
+$ git init
+Initialized empty Git repository in C:/Users/Luiz Henrique/Github/Postagens-no-Telegraph/Posts/.git/
+
+
