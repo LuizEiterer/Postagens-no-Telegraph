@@ -1,3 +1,4 @@
+cd
 # Clonar repositório
 Abrir Git Bash.</br>
 *Criar a pasta: mkdir nome da pasta
@@ -28,3 +29,6 @@ Para remover o controle remoto existente e adicionar um novo, podemos definir um
 git remote set-url origin git@github.com:LuizEiterer/Postagens-no-Telegraph/Posts.git
 
 Verificar novamente git remote -v
+$ git remote -v
+origin  git@github.com:LuizEiterer/Postagens-no-Telegraph/Posts.git (fetch)
+origin  git@github.com:LuizEiterer/Postagens-no-Telegraph/Posts.git (push)
